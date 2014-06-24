@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reprodução</title>
+	<trackList>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/00%20Introdu%C3%A7%C3%A3o/01%20Ferramentas%20do%20Campus.mp4</location>
+			<duration>856466</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/00%20Introdu%C3%A7%C3%A3o/02%20-%20Introdu%C3%A7%C3%A3o%20ao%20curso%20.mp4</location>
+			<duration>357013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/00%20Introdu%C3%A7%C3%A3o/03%20-%20Ferramentas%20e%20configura%C3%A7%C3%B5es.mp4</location>
+			<duration>492116</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/00%20Introdu%C3%A7%C3%A3o/04%20-%20Configura%C3%A7oes%20do%20Netbeans.mp4</location>
+			<duration>988415</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/00%20Introdu%C3%A7%C3%A3o/05%20-%20Procedural%20e%20POO%20.mp4</location>
+			<duration>406698</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/06-Classes_Classes%20e%20Objetos.mp4</location>
+			<duration>656511</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/07-Classes_Atributos%20e%20M%C3%A9todos.mp4</location>
+			<duration>775273</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/08-Classes_Comportamento%20Inicial.mp4</location>
+			<duration>600148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/09-Classes_R%C3%A9plica%20e%20Clonagem.mp4</location>
+			<duration>692948</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/10-Classes_Modelagem%20de%20Classe.mp4</location>
+			<duration>543828</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/12-Classes_Carga%20Autom%C3%A1tica.mp4</location>
+			<duration>462570</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/01%20Classes/13-Classes_Documenta%C3%A7%C3%A3o%20de%20Classe.mp4</location>
+			<duration>587006</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/14-Heran%C3%A7a_Conceitos%20de%20Heran%C3%A7a.mp4</location>
+			<duration>938453</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/15-Heran%C3%A7a_Conceitos%20de%20Polimorfismo.mp4</location>
+			<duration>1044906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/16-Heran%C3%A7a_Abstra%C3%A7%C3%A3o%20e%20Super%20Classe.mp4</location>
+			<duration>810266</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/17-Heran%C3%A7a_Abstra%C3%A7%C3%A3o%20e%20Especializa%C3%A7%C3%A3o.mp4</location>
+			<duration>723818</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/18-Heran%C3%A7a_Trabalho%20com%20Interfaces.mp4</location>
+			<duration>382441</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/02%20Heran%C3%A7a/19-Heren%C3%A7a_Resolu%C3%A7%C3%A3o%20de%20Escopo.mp4</location>
+			<duration>682046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/03%20Encapsulamento/20-Encap_Acesso%20P%C3%BAblico.mp4</location>
+			<duration>297406</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/03%20Encapsulamento/21-Encap_Acesso%20Protegido.mp4</location>
+			<duration>537791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/03%20Encapsulamento/22-Encap_Acesso%20Privado.mp4</location>
+			<duration>539028</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/04%20Arquitetura%20e%20Conceito/23-ArqCon_Objeto%20Din%C3%A2mico.mp4</location>
+			<duration>316713</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/04%20Arquitetura%20e%20Conceito/24-ArqCon_Modelo%20de%20Associa%C3%A7%C3%A3o.mp4</location>
+			<duration>678080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/04%20Arquitetura%20e%20Conceito/25-ArqCon_Modelo%20de%20Agrega%C3%A7%C3%A3o.mp4</location>
+			<duration>744148</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/04%20Arquitetura%20e%20Conceito/26-ArqCon_Modelo%20de%20Composi%C3%A7%C3%A3o.mp4</location>
+			<duration>369450</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/05%20Tratamento%20de%20Erros/27-Erros_Tipos%20de%20Valida%C3%A7%C3%A3o.mp4</location>
+			<duration>806485</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/05%20Tratamento%20de%20Erros/28-Erros_Disparando%20Erros.mp4</location>
+			<duration>663573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/05%20Tratamento%20de%20Erros/29-Erros_Lan%C3%A7ando%20Exce%C3%A7%C3%B5es.mp4</location>
+			<duration>382506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/05%20Tratamento%20de%20Erros/30-Erros_Personalizando%20Erros.mp4</location>
+			<duration>1097876</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/31-PDO_Organizando%20Servi%C3%A7os.mp4</location>
+			<duration>569855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/32-PDO_Conex%C3%A3o%20com%20Singleton.mp4</location>
+			<duration>575700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/33-PDO_Prepared%20Statements.mp4</location>
+			<duration>961855</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/34-PDO_Stored%20Procedures.mp4</location>
+			<duration>420543</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/35-PDO_Generic%20CRUD%20Create.mp4</location>
+			<duration>926975</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/36-PDO_Generic%20CRUD%20Read.mp4</location>
+			<duration>1095573</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/37-PDO_Generic%20CRUD%20Update.mp4</location>
+			<duration>749481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/38-PDO_Generic%20CRUD%20Delete.mp4</location>
+			<duration>403966</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/06%20PDO%20PHP%20Data%20Object/course.prt7.7z</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/39%20-%20Classes%20Auxiliares.mp4</location>
+			<duration>220010</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/40%20-%20Manipula%2B%C2%BA%2B%C3%BAo%20e%20Valida%2B%C2%BA%2B%C3%BAo.mp4</location>
+			<duration>683285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/41%20-%20Limites%2C%20Categorias%20e%20Outros%20.mp4</location>
+			<duration>1006933</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/42%20-%20Gest%2B%C3%BAo%20de%20Resultados.mp4</location>
+			<duration>819285</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/43%20-%20Pagina%2B%C2%BA%2B%C3%BAo%20de%20Resultados.mp4</location>
+			<duration>612180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/44%20-%20Gest%2B%C3%BAo%20de%20Uploads%20.mp4</location>
+			<duration>991680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/45%20-%20Upload%20e%20Tratamento%20de%20Imagens.mp4</location>
+			<duration>648980</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/07%20Classes%20Auxiliares/46%20-%20Upload%20de%20Arquivos%20e%20M%2B%C2%A1dias.mp4</location>
+			<duration>777940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/08%20An%C3%A1lise%20de%20Estatisticas/47%20-%20Gest%2B%C3%BAo%20de%20Estat%2B%C2%A1sticas%20Iniciais.mp4</location>
+			<duration>848831</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/08%20An%C3%A1lise%20de%20Estatisticas/48%20-%20Usu%2B%C3%ADrios%2C%20Visitas%20e%20Atualiza%2B%C2%BA%2B%C3%81es.mp4</location>
+			<duration>418921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/08%20An%C3%A1lise%20de%20Estatisticas/49%20-%20Contagem%20de%20Acesso%20por%20Navegador.mp4</location>
+			<duration>584320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/08%20An%C3%A1lise%20de%20Estatisticas/50%20-%20Contagem%20de%20Usu%2B%C3%ADrios%20Online.mp4</location>
+			<duration>547476</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/09%20MVC%20%20Conceito%20e%20Utiliza%C3%A7%C3%A3o/51%20-%20Conceitos%20Pr%2B%C3%ADticos%20de%20Utiliza%2B%C2%BA%2B%C3%BAo.mp4</location>
+			<duration>246805</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/09%20MVC%20%20Conceito%20e%20Utiliza%C3%A7%C3%A3o/52%20-%20Trabalhando%20com%20Template%20View.mp4</location>
+			<duration>881300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/09%20MVC%20%20Conceito%20e%20Utiliza%C3%A7%C3%A3o/53%20-%20Construindo%20Auxiliar%20de%20Vis%2B%C3%BAo.mp4</location>
+			<duration>759680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/54%20-%20Organizando%20Pastas%20do%20Projeto.mp4</location>
+			<duration>278655</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/55%20-%20Criando%20Modelo%20de%20Login.mp4</location>
+			<duration>940841</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/56%20-%20Efetuando%20Login%20no%20Sistema.mp4</location>
+			<duration>554495</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/57%20-%20Restri%2B%C2%BA%2B%C3%BAo%20e%20Seguran%2B%C2%BAa%20do%20Sistema.mp4</location>
+			<duration>473748</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/58%20-%20Modelo%20e%20Cadastro%20de%20Categorias.mp4</location>
+			<duration>1058046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/59%20-%20Detalhes%20e%20Atualiza%2B%C2%BA%2B%C3%BAo%20de%20Categorias.mp4</location>
+			<duration>800233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/60%20-%20Detalhes%20e%20Gest%2B%C3%BAo%20de%20Categorias.mp4</location>
+			<duration>1051241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/61%20-%20Verificando%20e%20Removendo%20Categorias%20from%20UpInside%20-%20Essa%20%2B%C2%AE%20nossa%20vibe%21%20on%20Vimeo.mp4</location>
+			<duration>685183</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/62%20-%20Estruturando%20Post%20Controller.mp4</location>
+			<duration>1062206</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/63%20-%20Modelo%20de%20Cadastro%20de%20Posts%20from.mp4</location>
+			<duration>761600</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/64%20-%20Cadastro%20Com%20Upload%20de%20Capa.mp4</location>
+			<duration>435093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/65%20-%20Executando%20Upload%20de%20Galerias.mp4</location>
+			<duration>1058303</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/66%20-%20Executando%20Atualiza%2B%C2%BA%2B%C3%BAo%20de%20Posts.mp4</location>
+			<duration>1199253</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/67%20-%20Atualizando%20Galerias%20do%20Post.mp4</location>
+			<duration>768938</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/68%20-%20Listando%20e%20Gerenciando%20Posts.mp4</location>
+			<duration>786068</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/69%20-%20Executando%20Gest%2B%C3%BAo%20de%20Posts.mp4</location>
+			<duration>1156735</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/10%20Gest%C3%A3o%20de%20Conte%C3%BAdo/70%20-%20Empresas%2C%20Usu%2B%C3%ADrios%20e%20Estat%2B%C2%A1sticas.mp4</location>
+			<duration>770815</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/71%20-%20Defini%2B%C2%BA%2B%C3%81es%20do%20Projeto%20Final.mp4</location>
+			<duration>624276</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/72%20-%20Modelo%20de%20Gest%2B%C3%BAo%20de%20E-mails.mp4</location>
+			<duration>1097386</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/73%20-%20Disparando%20E-mails%20do%20Sistema.mp4</location>
+			<duration>625258</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/74%20-%20Modelo%20de%20Gesto%20de%20SEO.mp4</location>
+			<duration>1273813</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/75%20-%20%20Modelo%20de%20Navegao%20Otimizada.mp4</location>
+			<duration>948906</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/11%20Modelos%20de%20Apoio/76-%20Melhorando%20Template%20Views.mp4</location>
+			<duration>543615</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/77%20-%20%20Desenvolvendo%20Pgina%20inicial%20%28Slide%29.mp4</location>
+			<duration>699348</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/78%20-%20Desenvolvendo%20Pgina%20Inicial%20%28Contedo%29.mp4</location>
+			<duration>1195306</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/79%20-%20Corrigindo%20e%20Acelerando%20Navegao.mp4</location>
+			<duration>540866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/80%20-%20Desenvolvendo%20Pgina%20Single.mp4</location>
+			<duration>728490</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/81%20-%20Exibindo%20Contedo%20Relacionado.mp4</location>
+			<duration>682346</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/82%20-%20Listando%20Posts%20da%20Categoria.mp4</location>
+			<duration>1125481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/83%20-%20Criando%20Sistema%20de%20Pesquisa.mp4</location>
+			<duration>798100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/84%20-%20Listando%20Empresas%20por%20Categoria.mp4</location>
+			<duration>1040233</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/85%20-%20Desenvolvendo%20Single%20Empresa.mp4</location>
+			<duration>554000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/cursos/Curso%20Work%20Series%20-%20PHP%20Orientado%20a%20Objetos/12%20Projeto%20Pr%C3%A1tico/86%20-%20Conceitos%20Finais%20e%20Hospedagem.mp4</location>
+			<duration>667413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>file-caching=300</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+	</extension>
+</playlist>
