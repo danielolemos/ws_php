@@ -17,6 +17,7 @@ and open the template in the editor.
                 var_dump($sessao);
                 echo '<hr>';
                 var_dump($_SESSION);
+                $e = 0;
         ?>
     </body>
 </html>
