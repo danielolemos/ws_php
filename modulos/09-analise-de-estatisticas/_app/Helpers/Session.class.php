@@ -8,6 +8,7 @@ class Session {
     private $Traffic;
     private $Browser;
     
+    
       
     
     function __construct($Cache = null) {
@@ -23,10 +24,17 @@ class Session {
         if (empty($_SESSION['useronline'])) {
             $this->setTraffic();
             $this->setSession();
+            $this->CheckBrowser();
+            $this->setUsuario();
+            
+            $this->BrowserUpdate();
             
         }else{
             $this->TrafficUpdate();
             $this->sessionUpdate();
+            $this->CheckBrowser();
+            $this->UsuarioUpdate();
+                       
         }
         
         $this->Date = null;
@@ -36,17 +44,17 @@ class Session {
     private function setSession(){
         $_SESSION['useronline'] = [
             "online_session" => session_id(),
-            "online_startviews" => date('Y-m-d H:i:s'),
-            "online_endviews" => date('Y-m-d H:i:s', strtotime("+{$this->Cache}minutes")),
+            "online_startview" => date('Y-m-d H:i:s'),
+            "online_endview" => date('Y-m-d H:i:s', strtotime("+{$this->Cache}minutes")),
                    "online_ip" => filter_input(INPUT_SERVER, 'REMOTE_ADDR', FILTER_VALIDATE_IP),
-                    "onnline_url" => filter_input(INPUT_SERVER, 'REQUEST_URI', FILTER_DEFAULT),
+                    "online_url" => filter_input(INPUT_SERVER, 'REQUEST_URI', FILTER_DEFAULT),
                    "online_agent" => filter_input(INPUT_SERVER, "HTTP_USER_AGENT", FILTER_DEFAULT)
             
         ];
     }
     
     private function sessionUpdate() {
-        $_SESSION['useronline']['online_endviews'] = date('Y-m-d H:i:s', strtotime("+{$this->Cache}minutes"));
+        $_SESSION['useronline']['online_endview'] = date('Y-m-d H:i:s', strtotime("+{$this->Cache}minutes"));
         $_SESSION['useronline']['online_url'] = filter_input(INPUT_SERVER, 'REQUEST_URI', FILTER_DEFAULT);
     }
     
@@ -76,6 +84,8 @@ class Session {
         $ArrSiteViews = [ 'siteviews_pages' => $this->Traffic['siteviews_pages'] + 1];
         $updatePageViews = new Update;
         $updatePageViews->ExeUpdate('ws_siteviews', $ArrSiteViews, "WHERE siteviews_date = :date", "date={$this->Date}");
+        
+        $this->Traffic = null;
     }
 
 
@@ -103,4 +113,65 @@ class Session {
         
     }
     
+    private function CheckBrowser() {
+        $this->Browser = $_SESSION['useronline']['online_agent'];
+        if (strpos($this->Browser,'Chrome')) {
+            $this->Browser = 'Chrome';
+        }  elseif (strpos($this->Browser,'Firefox')) {
+            $this->Browser = 'Firefox';            
+        }   elseif (strpos($this->Browser,'MSIE') || strpos($this->Browser, 'Trident/')) {
+            $this->Browser = 'IE';
+        }   else {
+            $this->Browser = 'Outros';            
+        }
+    }
+    
+    //Atualiza tabela com dados de navegadores
+    
+    private function BrowserUpdate(){
+        $readAgent = new Read;
+        $readAgent->ExeRead('ws_siteviews_agent', "WHERE agent_name = :agent", "agent={$this->Browser}");
+        if (!$readAgent->getResult()) {
+            $ArrAgent = ['agent_name' => $this->Browser, 'agent_views' => 1];
+            $createAgent = new Create;
+            $createAgent->ExeCreate('ws_siteviews_agent', $ArrAgent);
+            
+        }else{
+            $ArrAgent = ['agent_views' => $readAgent->getResult()[0]['agent_views'] + 1];
+            $updateAgent = new Update;
+            $updateAgent->ExeUpdate('ws_siteviews_agent', $ArrAgent, "WHERE agent_name = :name", "name={$this->Browser}");
+        }
+    }
+    
+    private function setUsuario() {
+        $sesOnline = $_SESSION['useronline'];
+        $sesOnline['agent_name'] = $this->Browser;
+        
+        var_dump($sesOnline);
+        
+        $userCreate = new Create;
+        $userCreate->ExeCreate('ws_siteviews_online', $sesOnline);
+    }
+    
+    private function UsuarioUpdate() {
+        $ArrOnline = [
+            'online_endview' => $_SESSION['useronline']['online_endview'],
+            'online_url' => $_SESSION['useronline']['online_url']
+        ];
+        
+        $userUpdate = new Update;
+        $userUpdate->ExeUpdate('ws_siteviews_online', $ArrOnline, "WHERE online_session = :ses", "ses={$_SESSION['useronline']['online_session']}");
+        
+        if (!$userUpdate->getRowCount()) {
+            $readSes = new Read;
+            $readSes->ExeRead('ws_siteviews_online', "WHERE online_session = :onses", "onses={$_SESSION['useronline']['online_session']}");
+            if (!$readSes->getRowCount()) {
+                $this->setUsuario();
+            }
+        }
+        
+         
+        var_dump($ArrOnline);
+        
+    }
 }
